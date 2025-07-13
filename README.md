@@ -16,7 +16,7 @@ To get started with the Calculator App, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/calculator-app.git
+   git clone https://github.com/honeywealth589/calculator-app.git
    ```
 
 2. Navigate to the project directory:
